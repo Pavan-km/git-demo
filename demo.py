@@ -1,0 +1,1 @@
+print("i love the mother earth")
