@@ -1,2 +1,2 @@
-print("i love the mother earth")
+print("i love the mother")
 print("i love my amma")
